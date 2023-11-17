@@ -9,7 +9,7 @@ A Plant disease detection model using Deep learning based on Convolutional Neura
 3. Extract files and select folder in editor
 4. Install all the dependencies namely pandas, matplotlib, torch, torchvision and torchsummary.
 5. Train the model using dataset from [here](https://data.mendeley.com/datasets/tywbtsjrjv/1).
-7. Or download the pre-trained model file `plant_disease_model_1.pt` from [here](https://drive.google.com/file/d/1Juh1B_5vCttqfuE7vVSrmrZrIxwqg9HP/view?usp=drive_link).
+7. Or download the pre-trained model file `plant_disease_model_1_latest.pt` from [here](https://drive.google.com/file/d/1Juh1B_5vCttqfuE7vVSrmrZrIxwqg9HP/view?usp=drive_link).
 8. Use Test images for testing the model.
 
 # If you like my project hit the star 🌟 button
